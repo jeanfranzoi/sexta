@@ -15,22 +15,3 @@ src = "turma.png">
 <i> ... O futuro!! </i>
 
 </body>
-MIDERSON ANDREI DE SOUZA SANTANA15:17
-h2 {color: red;
-}
-
-body {background-color: #00aa77
-}
-
-h3 { border-width:4px;
-	border-style: solid;
-	border-color: #ff0000;
-	padding: 4px;
-	margin: 100px;
-  }
-
-h3 {text-align: center;
-}
-
-#imagem-principal {width: 70%
-}
