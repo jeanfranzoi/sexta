@@ -1,0 +1,75 @@
+body		{
+			background-color: #CECECE;
+		}
+
+
+.fundobase	{ 
+			background-color: #E9E9E9;
+		}
+		
+
+.fundorel	{
+			background-color: #FFFFFF;
+		}
+		
+
+p		{
+			font-family: Arial;
+			font-size:12px;
+			color: black;
+		}
+
+
+h1		{
+			font-family: Arial;
+			font-size: 26px;
+			color: black;
+			text-align: center;
+		}
+
+
+a		{
+			font-family: Arial;
+			font-size: 12px;
+			color: #0000FF;
+			text-decoration: none;
+		}
+
+
+a:hover 	{
+			font-family: Arial;
+			font-size: 12px;
+			color: #FF9900;
+			text-decoration: underline;
+		}
+
+
+.cursor		{
+			cursor: hand;
+		}
+
+
+table		{
+			font-family: Arial;
+			font-size:12px;
+			color: black;
+			text-align: center;
+      border: 
+		}
+	
+.rotate 	{
+			display:inline-block;
+		  	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+			-webkit-transform: rotate(-90deg);
+			-webkit-transform: rotate3d(0, 0, 0, 270deg);
+			-ms-transform: rotate(270deg);
+			-moz-transform: rotate(270deg);  /* FF3.5+ */
+			-o-transform: rotate(270deg);  /* Opera 10.5 */
+			transform: rotate(270deg);
+         		-ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)"; /* IE8 */
+		}
+
+
+
+
+
